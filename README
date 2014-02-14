@@ -1,0 +1,5 @@
+This is a truss bridge solver designed to facilitate tedious, error-prone and infuriatingly long bridge calculations.
+It will calculate the stress on each member, as well as the smallest HSS size (out of the list of HSS types provided by Professor
+Michael Collins, lecturer of CIV102) needed for a safe design.
+
+You will need to edit the code yourself to suit your bridge's geometry, though.
